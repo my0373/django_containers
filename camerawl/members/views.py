@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the memvers index.")
+    return HttpResponse("Hello, world. You're at the members index.")
